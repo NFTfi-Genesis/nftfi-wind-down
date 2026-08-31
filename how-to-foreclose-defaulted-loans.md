@@ -4,7 +4,7 @@ This guide is for lenders with defaulted NFTfi loans.
 
 NFTfi's web app is no longer available, but the lending smart contracts remain live on Ethereum mainnet. If you are the lender on an overdue loan, you can claim the collateral directly through Etherscan.
 
-> Generated 2026-08-31T08:46:40.421Z.
+> Generated 2026-08-31T09:48:46.776Z.
 
 ## How To Foreclose
 
