@@ -21,6 +21,7 @@ The NFTfi lending contracts have been paused. New loans and refinancing are no l
 
 ### In this repository
 
+- **[`how-to-repay-active-loans.md`](./how-to-repay-active-loans.md)** — step-by-step Etherscan instructions to repay the remaining active loans.
 - **[`how-to-foreclose-defaulted-loans.md`](./how-to-foreclose-defaulted-loans.md)** — for lenders who have not yet foreclosed defaulted loans. Includes loan IDs, collateral links, contract addresses, and direct Etherscan links needed to claim collateral.
 - **[`loan-history-2026-08-31T11-30-55.csv`](./loan-history-2026-08-31T11-30-55.csv)** — every loan ever made on NFTfi, across all contract versions, for record-keeping, tax purposes, or research.
 
